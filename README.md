@@ -1,11 +1,5 @@
 # Pivotal Biodefense Work Test — Metagenomic Biosurveillance
 
-Response to the SecureBio/Zephyr work test (see [`work_test.docx`](work_test.docx) for the
-original prompt). The task: given pooled nasal-swab metatranscriptomic sequencing data from
-SecureBio's Zephyr respiratory-virus surveillance program, (1) answer a conceptual question
-on evaluating AI-generated vs. biological sequences, (2) identify which viruses are present
-across 10+ swab pools and assess confidence/genome coverage, (3) pick one of two follow-on
-tracks (protein annotation or embedding-based clustering), and (4) write up the findings.
 
 **Author:** Mahammed Kamruzzaman (kamruzzaman1@usf.edu)
 
@@ -106,6 +100,3 @@ similarity — strong evidence the embedding captures real taxonomic/ANI structu
 details, including a clustering-method pitfall we caught and fixed along the way, are in
 [`part3_embedding_clustering/part3_RESULTS.md`](part3_embedding_clustering/part3_RESULTS.md).
 
-## Part 4 — Write-up
-
-Not yet started. Will be a 1-2 page memo synthesizing all parts above.
