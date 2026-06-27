@@ -1,0 +1,18 @@
+species,n_reads,mean_within_species_similarity,mean_between_species_similarity
+Enterovirus A,60,0.3859,0.0044
+Human coronavirus NL63,60,0.0745,0.0
+Rhinovirus C,60,0.2135,0.019
+Rhinovirus B,60,0.1955,0.0035
+Rhinovirus A,60,0.188,0.0035
+Orthorubulavirus hominis,60,0.2362,0.0
+Orthopneumovirus hominis,60,0.562,0.0
+Metapneumovirus hominis,60,0.2984,0.0
+Severe acute respiratory syndrome-related coronavirus,60,0.323,0.0
+Enterovirus B,60,0.3189,0.0042
+Gammainfluenzavirus influenzae,60,0.1211,0.0
+Enterovirus L,60,0.3332,0.0129
+Enterovirus J,60,0.3713,0.0218
+Enterovirus F,60,0.3805,0.0029
+Enterovirus D,60,0.1312,0.0213
+Enterovirus C,60,0.5133,0.0069
+Human coronavirus 229E,30,0.1112,0.0003

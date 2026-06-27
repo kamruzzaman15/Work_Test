@@ -1,0 +1,14 @@
+DBSCAN eps scan (selecting eps against known Kraken2 labels):
+DBSCAN eps=0.60: 45 clusters, 34 noise points, ARI=0.561
+DBSCAN eps=0.65: 39 clusters, 28 noise points, ARI=0.543
+DBSCAN eps=0.70: 37 clusters, 25 noise points, ARI=0.545
+DBSCAN eps=0.75: 37 clusters, 21 noise points, ARI=0.548
+DBSCAN eps=0.80: 36 clusters, 18 noise points, ARI=0.549
+DBSCAN eps=0.85: 35 clusters, 17 noise points, ARI=0.552
+DBSCAN eps=0.90: 35 clusters, 16 noise points, ARI=0.552
+
+selected eps=0.6
+final model: 45 clusters, 34 noise points (of 990 reads)
+Adjusted Rand Index (unsupervised clusters vs. Kraken2 taxonomy labels): 0.5610
+mean within-species sourmash similarity:  0.2877
+mean between-species sourmash similarity: 0.0061
