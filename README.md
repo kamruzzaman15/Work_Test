@@ -14,10 +14,10 @@ checked against its actual output before being treated as a result.
 
 | Directory | Task part | Status |
 |---|---|---|
-| `part1_conceptual_question/` | Part 1 — evaluation design for AI-generated vs. biological sequences | not yet started |
+| `part1_conceptual_question/` | Part 1 — evaluation design for AI-generated vs. biological sequences | in the Google Doc |
 | `part2_taxonomic_classification/` | Part 2 — what viruses are present, confidence, genome coverage | done — [`part2_RESULTS.md`](part2_taxonomic_classification/part2_RESULTS.md) |
 | `part3_embedding_clustering/` | Part 3, Track B — embedding-based clustering vs. taxonomy/ANI | done — [`part3_RESULTS.md`](part3_embedding_clustering/part3_RESULTS.md) |
-| `part4_writeup/` | Part 4 — final 1-2 page memo | not yet started |
+| `part4_writeup/` | Part 4 — final 1-2 page memo | in the Google Doc |
 
 Each part's directory follows the same internal layout:
 - `scripts/` — numbered, run-in-order pipeline steps (e.g. `part2_step1_...`, `part2_step2_...`)
