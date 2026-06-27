@@ -1,0 +1,289 @@
+rname,startpos,endpos,numreads,covbases,coverage,meandepth,meanbaseq,meanmapq,pool,accession,virus,segment
+NC_038311.1|Rhinovirus_A,1,7137,64,6420,89.9538,14.5628,255,26.2,260318-MBTA_Ha-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,1,193,2.67758,0.0267758,255,1.0,260318-MBTA_Ha-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,45,6284,90.4954,8.6299,255,37.4,260318-MBTA_Ha-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_029905.1|Enterovirus_L,1,7367,1,108,1.466,0.01466,255,6.0,260318-MBTA_Ha-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,998,5218,34.3493,77.997,255,56.9,260318-MBTA_Ha-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,2,2372,17.7678,0.294082,255,60.0,260318-MBTA_Ha-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_005831.2|Human_coronavirus_NL63,1,27553,67,23505,85.3083,5.86328,255,59.3,260318-MBTA_Ha-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,30,19566,71.4218,2.85037,255,60.0,260318-MBTA_Ha-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260318-MBTA_Ha-NAS-P1,NC_021220.1,Enterovirus F,
+NC_038311.1|Rhinovirus_A,1,7137,3668,6744,94.4935,1786.13,255,50.6,260523-Haymkt-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,2,4435,61.5289,0.901498,255,60.0,260523-Haymkt-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,363,5326,76.6993,65.7735,255,30.8,260523-Haymkt-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260523-Haymkt-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,17637,6920,96.9595,5462.31,255,51.2,260526-MBTA_Da-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,2019,1229,17.0505,113.666,255,24.1,260526-MBTA_Da-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,11649,6787,97.7391,4042.77,255,29.3,260526-MBTA_Da-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_010415.1|Enterovirus_J|seg1,1,7351,2,322,4.38036,0.087199,255,17.0,260526-MBTA_Da-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,3,560,7.5891,0.108416,255,6.67,260526-MBTA_Da-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,882,415,5.63323,10.1448,255,1.24,260526-MBTA_Da-NAS-P1,NC_029905.1,Enterovirus L,
+NC_039199.1|Metapneumovirus_hominis,1,13350,621,9318,69.7978,133.182,255,60.0,260526-MBTA_Da-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_038307.1|Enterovirus_B,1,7399,440,590,7.97405,21.9159,255,6.28,260526-MBTA_Da-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,515,595,8.07656,36.1866,255,14.6,260526-MBTA_Da-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,107,544,7.31183,4.1996,255,10.2,260526-MBTA_Da-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,242,440,5.94755,11.2237,255,16.4,260526-MBTA_Da-NAS-P1,NC_038306.1,Enterovirus A,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260526-MBTA_Da-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,8393,6719,94.1432,3863.07,255,51.3,260527-Copl-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,44909,7208,100.0,20360.7,255,48.5,260527-Copl-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,26734,6794,97.8399,6364.5,255,51.2,260527-Copl-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_029905.1|Enterovirus_L,1,7367,3,146,1.98181,0.0557893,255,1.33,260527-Copl-NAS-P1,NC_029905.1,Enterovirus L,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,1434,13693,45.7914,96.5296,255,47.5,260527-Copl-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_038308.1|Enterovirus_D,1,7367,1,368,4.99525,0.0499525,255,20.0,260527-Copl-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,1,943,12.6747,0.126747,255,8.0,260527-Copl-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,2,564,7.62368,0.0932685,255,2.5,260527-Copl-NAS-P1,NC_038306.1,Enterovirus A,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_038307.1,Enterovirus B,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260527-Copl-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,2,2712,37.9992,0.564523,255,60.0,260530-NoS-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038878.1|Rhinovirus_C,1,6944,4,4031,58.0501,0.952909,255,51.5,260530-NoS-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_038312.1|Rhinovirus_B,1,7208,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260530-NoS-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,3010,6988,97.9123,1488.13,255,52.4,260602-Sea_P-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,1,1187,16.4678,0.164678,255,6.0,260602-Sea_P-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,34,2261,32.5605,2.20204,255,21.5,260602-Sea_P-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,1,3454,11.5507,0.115507,255,60.0,260602-Sea_P-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,689,10517,61.676,86.9095,255,59.8,260602-Sea_P-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_038307.1|Enterovirus_B,1,7399,1,253,3.41938,0.0341938,255,7.0,260602-Sea_P-NAS-P1,NC_038307.1,Enterovirus B,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260602-Sea_P-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,195,6787,95.096,65.3146,255,52.6,260605-BC-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,7,5358,74.3341,2.73793,255,52.7,260605-BC-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,1,807,11.6215,0.116215,255,60.0,260605-BC-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260605-BC-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,153557,7137,100.0,63303.1,255,54.4,260608-Copl-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,4634,7207,99.9861,1993.66,255,44.3,260608-Copl-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,8496,6603,95.0893,2234.49,255,39.4,260608-Copl-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_029905.1|Enterovirus_L,1,7367,17,237,3.21705,0.244469,255,2.59,260608-Copl-NAS-P1,NC_029905.1,Enterovirus L,
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,109,2054,86.8499,42.3907,255,58.5,260608-Copl-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,175,2077,87.8967,96.7021,255,57.6,260608-Copl-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,86,1981,90.7467,53.9849,255,59.5,260608-Copl-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,16,2025,97.6845,9.22624,255,60.0,260608-Copl-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,126,1650,91.3116,64.3719,255,59.2,260608-Copl-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,3,487,41.2712,1.23814,255,60.0,260608-Copl-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260608-Copl-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,3495,6611,92.63,1407.71,255,53.0,260609-Cent-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,5316,6978,96.8091,2386.26,255,51.0,260609-Cent-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,1,2457,35.3831,0.353831,255,60.0,260609-Cent-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_005831.2|Human_coronavirus_NL63,1,27553,1,1272,4.61656,0.0461656,255,60.0,260609-Cent-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_021220.1,Enterovirus F,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260609-Cent-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,49298,7137,100.0,19204.4,255,47.2,260610-MBTA_Da-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,426,6693,92.8552,200.444,255,55.6,260610-MBTA_Da-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,9142,6787,97.7391,2626.88,255,35.4,260610-MBTA_Da-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_029905.1|Enterovirus_L,1,7367,13,86,1.16737,0.143613,255,1.0,260610-MBTA_Da-NAS-P1,NC_029905.1,Enterovirus L,
+NC_038308.1|Enterovirus_D,1,7367,1,556,7.54717,0.0754717,255,5.0,260610-MBTA_Da-NAS-P1,NC_038308.1,Enterovirus D,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_038307.1,Enterovirus B,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260610-MBTA_Da-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,901,6955,97.4499,292.514,255,55.6,260611-BC-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,2,3961,54.9528,0.635266,255,27.5,260611-BC-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,805,6938,99.9136,299.395,255,52.3,260611-BC-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_038307.1|Enterovirus_B,1,7399,1,267,3.6086,0.036086,255,4.0,260611-BC-NAS-P1,NC_038307.1,Enterovirus B,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260611-BC-NAS-P1,NC_028752.1,Human coronavirus 229E,
+NC_038311.1|Rhinovirus_A,1,7137,1092,6671,93.4706,381.75,255,58.7,260613-MBTA_Ha-NAS-P1,NC_038311.1,Rhinovirus A,
+NC_038312.1|Rhinovirus_B,1,7208,19977,6949,96.4068,8932.7,255,54.1,260613-MBTA_Ha-NAS-P1,NC_038312.1,Rhinovirus B,
+NC_038878.1|Rhinovirus_C,1,6944,11,3405,49.0351,1.81855,255,40.9,260613-MBTA_Ha-NAS-P1,NC_038878.1,Rhinovirus C,
+NC_010415.1|Enterovirus_J|seg1,1,7351,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_010415.1,Enterovirus J,seg1
+NC_013695.1|Enterovirus_J|seg2,1,7379,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_013695.1,Enterovirus J,seg2
+NC_029905.1|Enterovirus_L,1,7367,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_029905.1,Enterovirus L,
+NC_001803.1|Orthopneumovirus_hominis,1,15191,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_001803.1,Orthopneumovirus hominis,
+NC_045512.2|Severe_acute_respiratory_syndrome-related_coronavirus,1,29903,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_045512.2,Severe acute respiratory syndrome-related coronavirus,
+NC_021928.1|Orthorubulavirus_hominis,1,17052,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_021928.1,Orthorubulavirus hominis,
+NC_039199.1|Metapneumovirus_hominis,1,13350,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_039199.1,Metapneumovirus hominis,
+NC_006306.2|Gammainfluenzavirus_influenzae|seg1,1,935,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006306.2,Gammainfluenzavirus influenzae,seg1
+NC_006307.2|Gammainfluenzavirus_influenzae|seg2,1,2365,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006307.2,Gammainfluenzavirus influenzae,seg2
+NC_006308.2|Gammainfluenzavirus_influenzae|seg3,1,2363,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006308.2,Gammainfluenzavirus influenzae,seg3
+NC_006309.2|Gammainfluenzavirus_influenzae|seg4,1,2183,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006309.2,Gammainfluenzavirus influenzae,seg4
+NC_006310.2|Gammainfluenzavirus_influenzae|seg5,1,2073,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006310.2,Gammainfluenzavirus influenzae,seg5
+NC_006311.1|Gammainfluenzavirus_influenzae|seg6,1,1807,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006311.1,Gammainfluenzavirus influenzae,seg6
+NC_006312.2|Gammainfluenzavirus_influenzae|seg7,1,1180,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_006312.2,Gammainfluenzavirus influenzae,seg7
+NC_038307.1|Enterovirus_B,1,7399,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_038307.1,Enterovirus B,
+NC_038308.1|Enterovirus_D,1,7367,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_038308.1,Enterovirus D,
+NC_002058.3|Enterovirus_C,1,7440,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_002058.3,Enterovirus C,
+NC_038306.1|Enterovirus_A,1,7398,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_038306.1,Enterovirus A,
+NC_021220.1|Enterovirus_F,1,7397,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_021220.1,Enterovirus F,
+NC_005831.2|Human_coronavirus_NL63,1,27553,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_005831.2,Human coronavirus NL63,
+NC_028752.1|Human_coronavirus_229E,1,27395,0,0,0.0,0.0,0,0.0,260613-MBTA_Ha-NAS-P1,NC_028752.1,Human coronavirus 229E,
