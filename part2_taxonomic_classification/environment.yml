@@ -1,0 +1,17 @@
+name: biosurv
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - kraken2=2.17.1
+  - bracken=3.1
+  - minimap2=2.31
+  - samtools=1.23.1
+  - seqkit=2.13.0
+  - entrez-direct=24.0
+  - sourmash=4.9.4
+  - python>=3.10
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scipy
